@@ -7,7 +7,7 @@ import csv
 
 y_vals = []
 x_vals = []
-with open('antenna_dataset_Gs_full(4).csv', 'r') as file :
+with open('antenna_dataset_Gs_full.csv', 'r') as file :
     csvreader = csv.reader(file)
     next(csvreader)    
     for line in csvreader:
@@ -62,9 +62,9 @@ print(f'The S1,1 value at {x_interp} is (dB) = ', poly(x_interp))
 
 
 plt.figure(figsize=(20, 12))
-plt.plot(x_vals, y_vals,'r*',label='original Data', markersize=3)
+plt.plot(x_vals, y_vals,'r*',label='original Data', markersize=6)
 plt.plot(x, y, 'b--', label='Scipy Polynomial')
-plt.plot(x_interp, poly(x_interp), 'ko', label='Test point', markersize=6)
+plt.plot(x_interp, poly(x_interp), 'ko', label='Test point', markersize=8)
 plt.xlabel('x')
 plt.ylabel('f(x)')
 plt.legend()
