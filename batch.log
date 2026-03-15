@@ -1,0 +1,863 @@
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 4:20:53 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 39569. 
+        [info] Parsing C:/Users/Samee/OneDrive/Documents/Ansoft/Rectangular_MSPA_Test.aedt.
+        [info] File C:/Users/Samee/OneDrive/Documents/Ansoft/Rectangular_MSPA_Test.aedt correctly loaded. Elapsed time: 0m 0sec
+        [error] **************************************************************
+        [error]   File "d:\Code\Python\Antenna-X\PyAEDT\Basic_1.py", line 54, in <module>
+        [error]     hfss = paedt.Hfss(project=project_path,
+        [error] Project is locked. close or remove the lock before proceeding. on __init__
+        [error] Last Electronics Desktop Message - [error] project is locked. close or remove the lock before proceeding. on __init__  
+        [error] Method arguments: 
+        [error]     project = C:/Users/Samee/OneDrive/Documents/Ansoft/Rectangular_MSPA_Test.aedt 
+        [error]     design = patch 
+        [error]     solution_type = Terminal 
+        [error]     version = 2025.2 
+        [error] **************************************************************
+        [error] __init__() should return None, not 'bool'
+        [error]   File "d:\Code\Python\Antenna-X\PyAEDT\Basic_1.py", line 54, in <module>
+        [error]     hfss = paedt.Hfss(project=project_path,
+        [error]           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-- Message Window --
+Stopping Batch Run: 4:21:20 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 4:24:22 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 44332. 
+        [info] Parsing C:/Users/Samee/OneDrive/Documents/Ansoft/Rectangular_MSPA_Test.aedt.
+        [info] File C:/Users/Samee/OneDrive/Documents/Ansoft/Rectangular_MSPA_Test.aedt correctly loaded. Elapsed time: 0m 0sec
+        [info] Project Rectangular_MSPA_Test has been opened.
+        [info] Active Design set to patch
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 1sec
+        [info] Project Rectangular_MSPA_Test Saved correctly
+        [info] Parsing C:\Users\Samee\OneDrive\Documents\Ansoft\Rectangular_MSPA_Test.aedt.
+        [info] File C:\Users\Samee\OneDrive\Documents\Ansoft\Rectangular_MSPA_Test.aedt correctly loaded. Elapsed time: 0m 0sec
+        [info] aedt file load time 0.2579524517059326
+        [info] Linear count sweep Sweep1 has been correctly created
+        [info] Project Rectangular_MSPA_Test Saved correctly
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Design setup Sweep1 solved correctly in 0.0h 0.0m 0.0s
+        [info] Key Desktop/ActiveDSOConfigurations/HFSS correctly changed.
+        [info] Project Rectangular_MSPA_Test Saved correctly
+-- Message Window --
+Stopping Batch Run: 4:25:12 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 4:26:16 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[error] Project "Rectangular_MSPA_Test" cannot be closed/deleted because it is in use by another application.
+[warning] Electronics Desktop Student cannot be closed right now because it is being used by another application, script or extension wizard.
+
+[warning] Electronics Desktop Student cannot be closed right now because it is being used by another application, script or extension wizard.
+
+[error] Project "Rectangular_MSPA_Test" cannot be closed/deleted because it is in use by another application.
+[warning] Electronics Desktop Student cannot be closed right now because it is being used by another application, script or extension wizard.
+
+[warning] Electronics Desktop Student cannot be closed right now because it is being used by another application, script or extension wizard.
+
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 4:30:49 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 42918.
+
+Stopping Batch Run: 4:31:25 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 4:31:46 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 42974.
+
+Stopping Batch Run: 4:32:22 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 4:37:45 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 52529.
+
+Stopping Batch Run: 4:38:11 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 4:46:52 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 40793.
+
+Stopping Batch Run: 4:47:12 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 4:47:31 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 59363.
+
+[warning] Project:Rectangular_MSPA_Test, Design:patch (Terminal Network), The variable  'Phase' doesn't have an associated sweep and is excluded from the definition of trace. (04:47:48 PM  Dec 04, 2025)
+Stopping Batch Run: 4:47:59 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 4:50:11 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 60114.
+
+[warning] Project:Rectangular_MSPA_Test, Design:patch (Terminal Network), The variable  'Phase' doesn't have an associated sweep and is excluded from the definition of trace. (04:50:27 PM  Dec 04, 2025)
+Stopping Batch Run: 4:50:39 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 4:55:46 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 11621.
+
+[warning] Project:Rectangular_MSPA_Test, Design:HFSSDesign1 (Terminal Network), The variable  'Distance' doesn't have an associated sweep and is excluded from the definition of trace. (04:56:02 PM  Dec 04, 2025)
+Stopping Batch Run: 4:56:14 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 5:04:03 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 11730.
+
+Stopping Batch Run: 5:04:23 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 5:05:13 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 11807.
+
+[warning] Project:Rectangular_MSPA_Test, Design:HFSSDesign1 (Terminal Network), The variable  'Distance' doesn't have an associated sweep and is excluded from the definition of trace. (05:05:28 PM  Dec 04, 2025)
+Stopping Batch Run: 5:05:40 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 9:20:25 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 19027.
+
+Stopping Batch Run: 9:21:11 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 9:21:34 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 19088.
+
+[warning] Project:Rectangular_MSPA_Test, Design:HFSSDesign1 (Terminal Network), The variable  'Distance' doesn't have an associated sweep and is excluded from the definition of trace. (09:21:50 PM  Dec 04, 2025)
+Stopping Batch Run: 9:22:02 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 9:34:08 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 57315.
+
+[warning] Project:Rectangular_MSPA_Test, Design:HFSSDesign1 (Terminal Network), The variable  'Distance' doesn't have an associated sweep and is excluded from the definition of trace. (09:34:24 PM  Dec 04, 2025)
+Stopping Batch Run: 9:34:35 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 9:37:34 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 57394.
+
+[warning] Design 'HFSSDesign1': Inconsistently versioned solution data is detected from the disk.
+Recover from the latest version ?
+It may result in unexpected behavior.
+[warning] Design 'HFSSDesign1': Inconsistently versioned solution data is detected from the disk.
+Recover from the latest version ?
+It may result in unexpected behavior.
+[warning] Project:Rectangular_MSPA_Test, Design:HFSSDesign1 (Modal Network), The variable  'Distance' doesn't have an associated sweep and is excluded from the definition of trace. (09:37:51 PM  Dec 04, 2025)
+Stopping Batch Run: 9:38:02 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 9:42:05 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 34628.
+
+Stopping Batch Run: 9:42:25 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 9:42:40 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 34675.
+
+Stopping Batch Run: 9:43:07 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 9:43:58 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 34759.
+
+Stopping Batch Run: 9:44:24 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 9:47:26 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 18725.
+
+Stopping Batch Run: 9:47:51 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 10:16:52 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 14519.
+
+Stopping Batch Run: 10:17:17 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 10:26:58 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 49104.
+
+[warning] Design 'HFSSDesign1': Inconsistently versioned solution data is detected from the disk.
+Recover from the latest version ?
+It may result in unexpected behavior.
+[warning] Design 'HFSSDesign1': Inconsistently versioned solution data is detected from the disk.
+Recover from the latest version ?
+It may result in unexpected behavior.
+Stopping Batch Run: 10:27:23 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 10:28:37 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 49162.
+
+Stopping Batch Run: 10:29:02 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 10:30:35 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 49223.
+
+Stopping Batch Run: 10:31:00 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 10:33:00 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 62817.
+
+Stopping Batch Run: 10:33:25 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 10:35:52 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 62892.
+
+Stopping Batch Run: 10:36:17 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 10:37:42 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 29434.
+
+Stopping Batch Run: 10:38:06 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 10:38:19 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 31970.
+
+Stopping Batch Run: 10:38:45 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 10:41:07 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 16036.
+
+Stopping Batch Run: 10:41:32 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 10:45:06 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 17183.
+
+Stopping Batch Run: 10:45:32 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 10:49:17 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 4250.
+
+Stopping Batch Run: 10:49:43 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 10:51:28 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 17740.
+
+Stopping Batch Run: 10:51:55 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 10:53:44 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 20684.
+
+Stopping Batch Run: 10:54:10 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 10:56:31 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 37261.
+
+Stopping Batch Run: 10:56:58 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 10:58:47 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 37322.
+
+Stopping Batch Run: 10:59:13 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:00:53 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 37384.
+
+Stopping Batch Run: 11:01:18 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:02:30 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 37439.
+
+Stopping Batch Run: 11:02:57 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:04:23 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 37496.
+
+Stopping Batch Run: 11:04:50 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:07:10 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 15666.
+
+Stopping Batch Run: 11:07:37 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:09:06 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 15725.
+
+Stopping Batch Run: 11:09:34 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:11:28 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 15787.
+
+Stopping Batch Run: 11:11:57 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:13:33 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 15860.
+
+Stopping Batch Run: 11:14:01 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:15:19 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 15917.
+
+Stopping Batch Run: 11:15:47 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:17:30 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 15982.
+
+Stopping Batch Run: 11:17:57 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:20:33 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 16052.
+
+Stopping Batch Run: 11:21:00 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:30:19 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 33162.
+
+Stopping Batch Run: 11:30:50 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:32:59 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 42318.
+
+Stopping Batch Run: 11:33:26 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:35:03 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 42382.
+
+Stopping Batch Run: 11:35:32 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:37:20 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 41446.
+
+Stopping Batch Run: 11:37:48 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:48:49 PM  Dec 04, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 28533.
+
+Stopping Batch Run: 11:49:17 PM  Dec 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 12:04:41 AM  Dec 05, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 37126.
+
+Stopping Batch Run: 12:05:13 AM  Dec 05, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 10:55:56 AM  Dec 05, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[info] GRPC server running on port: 39194.
+
+Stopping Batch Run: 10:56:32 AM  Dec 05, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:01:43 AM  Dec 05, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[warning] The application could not resolve the IP address of this machine: remote analysis and remote distributed analysis will not work.
+[info] GRPC server running on port: 1182.
+
+Stopping Batch Run: 11:02:11 AM  Dec 05, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:04:46 AM  Dec 05, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[warning] The application could not resolve the IP address of this machine: remote analysis and remote distributed analysis will not work.
+[info] GRPC server running on port: 1797.
+
+Stopping Batch Run: 11:05:13 AM  Dec 05, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:07:41 AM  Dec 05, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[warning] The application could not resolve the IP address of this machine: remote analysis and remote distributed analysis will not work.
+[info] GRPC server running on port: 3691.
+
+Stopping Batch Run: 11:08:09 AM  Dec 05, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:09:22 AM  Dec 05, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[warning] The application could not resolve the IP address of this machine: remote analysis and remote distributed analysis will not work.
+[info] GRPC server running on port: 4792.
+
+Stopping Batch Run: 11:09:49 AM  Dec 05, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:11:05 AM  Dec 05, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[warning] The application could not resolve the IP address of this machine: remote analysis and remote distributed analysis will not work.
+[info] GRPC server running on port: 16900.
+
+Stopping Batch Run: 11:11:31 AM  Dec 05, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:12:32 AM  Dec 05, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[warning] The application could not resolve the IP address of this machine: remote analysis and remote distributed analysis will not work.
+[info] GRPC server running on port: 25413.
+
+Stopping Batch Run: 11:13:04 AM  Dec 05, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:14:32 AM  Dec 05, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[warning] The application could not resolve the IP address of this machine: remote analysis and remote distributed analysis will not work.
+[info] GRPC server running on port: 48614.
+
+Stopping Batch Run: 11:15:00 AM  Dec 05, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:16:08 AM  Dec 05, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[warning] The application could not resolve the IP address of this machine: remote analysis and remote distributed analysis will not work.
+[info] GRPC server running on port: 6464.
+
+Stopping Batch Run: 11:16:38 AM  Dec 05, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:17:46 AM  Dec 05, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[warning] The application could not resolve the IP address of this machine: remote analysis and remote distributed analysis will not work.
+[info] GRPC server running on port: 3132.
+
+Stopping Batch Run: 11:18:15 AM  Dec 05, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:20:11 AM  Dec 05, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[warning] The application could not resolve the IP address of this machine: remote analysis and remote distributed analysis will not work.
+[info] GRPC server running on port: 33793.
+
+Stopping Batch Run: 11:20:33 AM  Dec 05, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:20:52 AM  Dec 05, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[warning] The application could not resolve the IP address of this machine: remote analysis and remote distributed analysis will not work.
+[info] GRPC server running on port: 51497.
+
+Stopping Batch Run: 11:21:22 AM  Dec 05, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:22:33 AM  Dec 05, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[warning] The application could not resolve the IP address of this machine: remote analysis and remote distributed analysis will not work.
+[info] GRPC server running on port: 44348.
+
+Stopping Batch Run: 11:23:03 AM  Dec 05, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:24:38 AM  Dec 05, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[warning] The application could not resolve the IP address of this machine: remote analysis and remote distributed analysis will not work.
+[info] GRPC server running on port: 42773.
+
+Stopping Batch Run: 11:25:09 AM  Dec 05, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:26:42 AM  Dec 05, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[warning] The application could not resolve the IP address of this machine: remote analysis and remote distributed analysis will not work.
+[info] GRPC server running on port: 44066.
+
+Stopping Batch Run: 11:27:13 AM  Dec 05, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:28:25 AM  Dec 05, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[warning] The application could not resolve the IP address of this machine: remote analysis and remote distributed analysis will not work.
+[info] GRPC server running on port: 45178.
+
+Stopping Batch Run: 11:28:55 AM  Dec 05, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:30:18 AM  Dec 05, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[warning] The application could not resolve the IP address of this machine: remote analysis and remote distributed analysis will not work.
+[info] GRPC server running on port: 10492.
+
+Stopping Batch Run: 11:30:47 AM  Dec 05, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:33:53 AM  Dec 05, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[warning] The application could not resolve the IP address of this machine: remote analysis and remote distributed analysis will not work.
+[info] GRPC server running on port: 60588.
+
+Stopping Batch Run: 11:34:23 AM  Dec 05, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:35:42 AM  Dec 05, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[warning] The application could not resolve the IP address of this machine: remote analysis and remote distributed analysis will not work.
+[info] GRPC server running on port: 43856.
+
+Stopping Batch Run: 11:36:12 AM  Dec 05, 2025
+ 
+Ansys Electronics Desktop Student Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: D:\Applications\Ansys\ANSYS Inc\ANSYS Student\v252\AnsysEM\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:37:37 AM  Dec 05, 2025
+Running as user : INTERPID\Samee
+Temp directory: C:\temp
+Project directory: C:\Users\Samee\OneDrive\Documents\Ansoft
+[warning] The application could not resolve the IP address of this machine: remote analysis and remote distributed analysis will not work.
+[info] GRPC server running on port: 45089.
+
+Stopping Batch Run: 11:38:06 AM  Dec 05, 2025
